@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["esnext", "dom"],
+    "moduleResolution": "bundler",
+    "module": "esnext",
+    "esModuleInterop": true
+  }
+}
